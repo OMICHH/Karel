@@ -1,6 +1,4 @@
-# ¡Avanza Karel!
-
-## Descripción
+# Descripción
 
 A Karel le gusta escalar arboles, el arbol mas cercano esta 7 casillas frente a él,
 Ayuda a Karel a llegar al arbol mas cercano.
