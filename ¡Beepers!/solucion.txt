@@ -1,0 +1,10 @@
+class program {
+    program () {
+        move();
+        pickbeeper();
+        move();
+        move();
+        putbeeper();
+        turnoff();
+    }
+}
