@@ -1,0 +1,15 @@
+class program {
+
+        define gira_derecha()
+        {
+        turnleft();
+        turnleft();
+        turnleft();
+        }
+
+    program () {
+        gira_derecha();
+        gira_derecha();
+        turnoff(); ///manda a llamar la funcion
+    }
+}
