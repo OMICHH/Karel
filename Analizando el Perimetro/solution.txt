@@ -1,0 +1,73 @@
+class program {
+
+   define der()
+   {
+   iterate(3)
+   turnleft();
+   }
+
+    program () {
+        iterate(5){
+        move();
+        iterate(3)
+        putbeeper();
+        }
+        der();
+        iterate(4){     ///poner de 3 beepers
+        move();
+        iterate(3)
+        putbeeper();
+        }
+        der();
+        iterate(4){
+        move();
+        iterate(3)
+        putbeeper();
+        }
+        der();  
+        iterate(3){
+        move();
+        iterate(3)
+        putbeeper();
+        }
+        der();      
+        
+        
+        
+        iterate(3){
+        move();
+        iterate(2)
+        putbeeper();
+        }
+        der();
+        iterate(2){     ///poner de 2 beepers
+        move();
+        iterate(2)
+        putbeeper();
+        }
+        der();
+        iterate(2){
+        move();
+        iterate(2)
+        putbeeper();
+        }
+        der();  
+        
+        move();
+        iterate(2)
+        putbeeper();
+        der();  
+        
+        
+        move();
+        putbeeper();
+        
+        
+        
+        
+        
+        
+   
+        turnoff();
+    }
+}
