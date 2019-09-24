@@ -1,6 +1,6 @@
 # Descripción
 
-A la hora de receso, los amigos de Karel estaban jugando a los piratas, como a Karel le gustan mucho, decide ir por su parche pirata y su espada de plastico para poder aventurarse mejor dentro del personaje, como es de esperarse los piratas andan en busca de tesoros, tienen  un mapa el cual les ayudará a encontrar aquel tan preciado tesoro, como Karel no es tan bueno leyndo los mapas, te ha pedido ayuda para poder encontrar el tesoro y tener recompensas ambos.  
+A la hora de receso, los amigos de Karel estaban jugando a los piratas, como a Karel le gustan mucho, decide ir por su parche pirata y su espada de plastico para poder aventurarse mejor dentro del personaje, como es de esperarse los piratas andan en busca de tesoros, tienen  un mapa el cual les ayudará a encontrar aquel tan preciado tesoro, como Karel no es tan bueno leyndo los mapas, te ha pedido ayuda para poder encontrar el tesoro y obtener recompensas.
 
 # Problema
 
