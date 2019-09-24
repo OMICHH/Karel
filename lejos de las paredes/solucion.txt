@@ -1,0 +1,25 @@
+class program {
+    program () {
+       if(frontIsBlocked){
+       turnleft();
+       turnleft();
+       move(); move();
+       }
+       if(leftIsBlocked){
+       iterate(3)
+       turnleft();
+       move(); move();
+       }
+       if(rightIsBlocked){
+       turnleft();
+       move();
+       move();
+       }
+
+
+
+
+
+        turnoff();
+    }
+}
