@@ -1,7 +1,6 @@
 # Descripción
 
-En el mundo de Karel existen objetos que emiten un zumbido característico, llamados *zumbadores* o
-"***Beepers***", estos aparecen en el mundo representados por un numero remarcado en color *verde* que indica la cantidad de *beepers* que hay.
+En el mundo de Karel existen objetos que emiten un zumbido característico, llamados *zumbadores* o "***Beepers***", estos aparecen en el mundo representados por un numero remarcado en color *verde* que indica la cantidad de *beepers* que hay.
 
 Aqui los beepers son usados para representar objetos como monedas, flores, arboles, personas, entre otros.
 
