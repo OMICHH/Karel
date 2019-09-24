@@ -1,7 +1,0 @@
-# Descripción
-
-# Problema
-
-# Entrada
-
-# Salida
