@@ -6,22 +6,22 @@ A la hora de receso, los amigos de Karel estaban jugando a los piratas, como a K
 
 Ayuda a Karel a encontrar el tesoro escondido siguendo las siguentes instrucciones:
  
-  1-  6 pasos al Norte
-  2-  Girar 3 veces a la Izquierda
-  3-  2 pasos al Este
-  4 - Girar 3 veces a la Izquierda
-  5-  3 pasos al Sur 
-  6-  Girar a la Izquiera
-  7-  5 pasos al Este
-  8-  Girar a la Izquierda
-  9-  4 pasos al Norte
-  10- Gira a la Izquiera
-  11- Avanza un paso al Oeste
+  +  6 pasos al Norte
+  +  Girar 3 veces a la Izquierda
+  +  2 pasos al Este
+  +  Girar 3 veces a la Izquierda
+  +  3 pasos al Sur 
+  +  Girar a la Izquiera
+  +  5 pasos al Este
+  +  Girar a la Izquierda
+  +  4 pasos al Norte
+  +  Gira a la Izquiera
+  +  Avanza un paso al Oeste
 
 # Entrada
 
-![entrada.png](entrada)
+![entrada](entrada.png)
 
 # Salida
 
-![salida.png](salida)
+![salida](salida.png)
