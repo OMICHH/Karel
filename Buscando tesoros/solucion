@@ -25,6 +25,9 @@ class program {
         iterate(4){
         	move();
         }
+        turnleft();
+        move();
+        
         turnoff();
     }
 }
