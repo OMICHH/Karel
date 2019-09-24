@@ -1,0 +1,33 @@
+class program {
+    program () {
+
+        while(frontIsClear){
+        while(frontIsClear){
+        move();
+        }
+
+
+        if(frontIsBlocked && leftIsBlocked && rightIsClear){
+        iterate(3)
+        turnleft();
+        }
+        else if(frontIsBlocked && rightIsBlocked && leftIsClear){
+        turnleft();
+        }
+        else{
+        turnoff();
+        }
+
+
+       }
+
+
+
+
+
+
+
+
+        turnoff();
+    }
+}
