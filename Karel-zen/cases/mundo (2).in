@@ -4,6 +4,9 @@
 		<mundo nombre="mundo_0" ancho="100" alto="100"></mundo>
 	</mundos>
 	<programas tipoEjecucion="CONTINUA" intruccionesCambioContexto="1" milisegundosParaPasoAutomatico="0">
-		<programa nombre="p1" ruta="{$2$}" mundoDeEjecucion="mundo_0" xKarel="7" yKarel="8" direccionKarel="ESTE" mochilaKarel="0"></programa>
+		<programa nombre="p1" ruta="{$2$}" mundoDeEjecucion="mundo_0" xKarel="2" yKarel="2" direccionKarel="SUR" mochilaKarel="0">
+			<despliega tipo="POSICION"></despliega>
+			<despliega tipo="ORIENTACION"></despliega>
+		</programa>
 	</programas>
 </ejecucion>
