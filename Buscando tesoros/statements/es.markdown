@@ -23,5 +23,3 @@ Ayuda a Karel a encontrar el tesoro escondido siguendo las siguentes instruccion
 ![entrada](entrada.png)
 
 # Salida
-
-![salida](salida.png)
