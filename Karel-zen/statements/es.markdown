@@ -21,7 +21,7 @@ Ejemplo:
 
 # Problema
 
-Karel ha tenido unos cuantos problemas ultimamente, para relajarse ha decidido meditar de vez en cuando, siempre mirando hacia el Este, sin embargo, Karel no esta en su lugar habitual de meditacion y se le dificulta orientarse correctamente. Ayuda a Karel a mirar hacia el Este.
+Karel ha tenido unos cuantos problemas ultimamente, para relajarse ha decidido meditar de vez en cuando, siempre mirando hacia el *Este*, sin embargo, Karel no esta en su lugar habitual de meditacion y se le dificulta orientarse correctamente. Ayuda a Karel a mirar hacia el ***Este***.
 
 **Nota:** La orientacion inicial de Karel puede ser cualquier dirección (Norte, Sur, Este u Oeste).
 
