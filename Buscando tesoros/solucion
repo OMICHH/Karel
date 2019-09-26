@@ -1,0 +1,33 @@
+class program {
+    define turnright(){
+    	turnleft();
+        turnleft();
+        turnleft();
+    }
+
+    program () {
+        iterate(6){
+        	move();
+        }
+        turnright();
+        iterate(2){
+        	move();
+        }
+        turnright();
+        iterate(3){
+        	move();
+        }
+        turnleft();
+        iterate(5){
+        	move();
+        }
+        turnleft();
+        iterate(4){
+        	move();
+        }
+        turnleft();
+        move();
+        
+        turnoff();
+    }
+}
