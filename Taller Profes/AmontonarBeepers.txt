@@ -31,13 +31,24 @@ class program {
          turnleft();
        }
        
+       while(frontIsClear){
+       
        recolectaBeepers();
 
         turnleft();
+        
          if(frontIsClear){
             move();
+            if(notNextToABeeper){
+              turnoff();
+            }
+         }else{
+         	turnoff();
          }
+         
          turnleft();
+         
+         }
              turnoff();
     }
 
