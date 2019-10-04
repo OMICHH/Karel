@@ -1,0 +1,18 @@
+class program {
+    program () {
+        while(notFacingSouth){
+        	turnleft();
+        }
+        while(frontIsClear){
+        	move();
+        }
+        while(notFacingWest){
+        	turnleft();
+        }
+        while(frontIsClear){
+        	move();
+        }
+
+        turnoff();
+    }
+}
