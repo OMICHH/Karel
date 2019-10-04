@@ -1,0 +1,22 @@
+class program {
+
+define cuenta(){
+	if(frontIsClear){
+    	move();
+        cuenta();
+        putbeeper();
+    }else{
+    	turnleft();
+        turnleft();
+        while(frontIsClear){
+        	move();
+        }
+    }
+}
+
+    program () {
+        
+        cuenta();
+        turnoff();
+    }
+}
