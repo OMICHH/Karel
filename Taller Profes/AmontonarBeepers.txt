@@ -1,20 +1,13 @@
 class program {
-    program () {
-       
-       while(notFacingNorth){
-         turnleft();
-       }
-       
-       while(frontIsClear){
+
+    define recolectaBeepers(){
+        while(frontIsClear){
          while(nextToABeeper){
            pickbeeper();
          }
-       
          move();
-        
        }  
-       
-       
+        
        while(nextToABeeper){
            pickbeeper();
        }
@@ -29,8 +22,17 @@ class program {
        while(anyBeepersInBeeperBag){
           putbeeper();
        }
-         
-        turnoff();
+
     }
-    
+
+    program () {
+       
+       while(notFacingNorth){
+         turnleft();
+       }
+       
+       
+             turnoff();
+    }
+
 }
