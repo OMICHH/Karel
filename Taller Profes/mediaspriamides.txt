@@ -22,12 +22,33 @@ define turnright(){
             
             turnright();
             
-            while(anyBeeperInBeeperBag){
-            	putbeeper();
+            while(notNextToABeeper){
+            	if(anyBeepersInBeeperBag){
+                	putbeeper();
+                }else{
+                	turnoff();
+                }
                 if(frontIsClear){
                 	move();
+                }else{
+                	turnleft();
+            		turnleft();
+            		while(nextToABeeper&&frontIsClear){
+            			move();
+            		}
+                    iterate(3){
+            			turnleft();
+            		}
+            
+           			 if(frontIsClear){
+            			move();
+            		}
+            
+           			 turnright();
                 }
             }
+            
+
        }
         turnoff();
     }
