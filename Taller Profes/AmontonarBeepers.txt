@@ -32,6 +32,12 @@ class program {
        }
        
        recolectaBeepers();
+
+        turnleft();
+         if(frontIsClear){
+            move();
+         }
+         turnleft();
              turnoff();
     }
 
