@@ -1,11 +1,13 @@
 class program {
 
     define recolectaBeepers(){
-        while(frontIsClear){
+        while(nextToABeeper){
          while(nextToABeeper){
            pickbeeper();
          }
+         if(frontIsClear){
          move();
+         }
        }  
         
        while(nextToABeeper){
