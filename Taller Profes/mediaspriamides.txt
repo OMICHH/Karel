@@ -1,0 +1,34 @@
+class program {
+
+define turnright(){
+            iterate(3){
+            	turnleft();
+            }
+}
+    program () {
+       
+       while(anyBeepersInBeeperBag){
+       		putbeeper();
+       		if(frontIsClear){
+            	move();
+            }
+            iterate(3){
+            	turnleft();
+            }
+            
+            if(frontIsClear){
+            	move();
+            }
+            
+            turnright();
+            
+            while(anyBeeperInBeeperBag){
+            	putbeeper();
+                if(frontIsClear){
+                	move();
+                }
+            }
+       }
+        turnoff();
+    }
+}
