@@ -1,0 +1,12 @@
+class program {
+    program () {
+    	move();
+        putbeeper();
+        while(anyBeepersInBeeperBag){
+        	move();
+            move();
+            putbeeper();
+        }
+        turnoff();
+    }
+}
