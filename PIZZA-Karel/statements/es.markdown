@@ -28,4 +28,4 @@ Karel decidió crear su propio negocio de pizza a domicilio, convenientemente lo
 
 # Salida
 
-![Salida][salida.png]
+![Salida](salida.png)
