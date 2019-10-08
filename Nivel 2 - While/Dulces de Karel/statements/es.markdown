@@ -16,3 +16,4 @@ Crea un codigo en el que recojas todos los dulces(Beepers) del patio, el cual ti
 #Consideraciones
 
 -Los dulces pueden estar en cualquer lugar del patio
+-No importa la ubicacion ni orientacion final de Karel
