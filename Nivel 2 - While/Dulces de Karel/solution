@@ -1,0 +1,46 @@
+class program {
+    program () {
+    while(frontIsClear ){
+       while( frontIsClear ){
+       if(nextToABeeper){
+       pickbeeper();
+       }
+       move();
+       }
+       if(frontIsBlocked && rightIsClear){
+            iterate(3)
+            turnleft();
+            move();
+            iterate(3)
+            turnleft();
+            
+            
+       }       while( frontIsClear ){
+       if(nextToABeeper){
+       pickbeeper();
+       }
+       move();
+       }
+       
+       
+       
+       
+       if(frontIsBlocked && leftIsClear && rightIsClear){
+            turnleft();
+            move();
+            turnleft();
+       }
+       
+       
+       }
+       
+       
+       
+       
+       
+       
+       
+       
+        turnoff();
+    }
+}
